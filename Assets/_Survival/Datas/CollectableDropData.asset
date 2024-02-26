@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c92e3f3b8be46e195a47aea2174820b, type: 3}
+  m_Name: CollectableDropData
+  m_EditorClassIdentifier: 
+  _collectableUnitDatas:
+  - XPRate: 20
+    HPRate: 1
+    GoldRate: 2
+    NoneRate: 1
+    XP: 10
+    HP: 10
+    Gold: 10
+  - XPRate: 20
+    HPRate: 1
+    GoldRate: 2
+    NoneRate: 1
+    XP: 20
+    HP: 20
+    Gold: 20
+  - XPRate: 20
+    HPRate: 1
+    GoldRate: 2
+    NoneRate: 1
+    XP: 30
+    HP: 20
+    Gold: 20
+  - XPRate: 20
+    HPRate: 1
+    GoldRate: 2
+    NoneRate: 1
+    XP: 35
+    HP: 20
+    Gold: 25
+  - XPRate: 20
+    HPRate: 1
+    GoldRate: 2
+    NoneRate: 1
+    XP: 50
+    HP: 20
+    Gold: 30

@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI_Common
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 099b983a309f86b44a58e35fd3be453e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 619dac60f1238e840879f89cfa8f73ba, type: 3}
+  - {fileID: 21300000, guid: d96857b0fb43f4d46948141d10f5b1a8, type: 3}
+  - {fileID: 21300000, guid: fd28d001996d8fd44b2f038d7a45eed2, type: 3}
+  - {fileID: 21300000, guid: 88efc6b1d75b3bf498f020af8ae75f61, type: 3}
+  - {fileID: 21300000, guid: 930e84027d7c1ba4e9408ff08d24b4c0, type: 3}
+  - {fileID: 21300000, guid: 295c69928bc3e0544ba976d600aeef64, type: 3}
+  - {fileID: 21300000, guid: a0dc7704f1aa9fc4bb451875e9ca745b, type: 3}
+  - {fileID: 21300000, guid: c4864325e2836f048817398b4a013425, type: 3}
+  - {fileID: 21300000, guid: 6e2ddd557f851ae48b50393447a1985b, type: 3}
+  - {fileID: 21300000, guid: 16173fc73fdf20741bd99c371ba64eb2, type: 3}
+  - {fileID: 21300000, guid: 5ce4363980e8d7244a65a252152eb5c6, type: 3}
+  - {fileID: 21300000, guid: 334a806ac9232df4cb60f853e18c4643, type: 3}
+  - {fileID: 21300000, guid: 0cda729abd701424b988127f3432e430, type: 3}
+  - {fileID: 21300000, guid: 91856ebaafdf68e4a82292fa354d016c, type: 3}
+  - {fileID: 21300000, guid: 5b6565eb8ac4021459d0056733f8b355, type: 3}
+  - {fileID: 937454141, guid: f9a4fd2eb2991cc4e8db9503e0089b75, type: 3}
+  - {fileID: -1646622220, guid: f9a4fd2eb2991cc4e8db9503e0089b75, type: 3}
+  - {fileID: -1620191111, guid: f9a4fd2eb2991cc4e8db9503e0089b75, type: 3}
+  - {fileID: -214676879, guid: f9a4fd2eb2991cc4e8db9503e0089b75, type: 3}
+  - {fileID: -1427870155, guid: f9a4fd2eb2991cc4e8db9503e0089b75, type: 3}
+  - {fileID: 21300000, guid: 84b93efe84465a84ead251c934f37bdc, type: 3}
+  - {fileID: 21300000, guid: 8aab57bf2e911834f80451c9b459ded0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ico_notice
+  - ico_ad
+  - bg_circle_fade_2
+  - bg_glow
+  - ico_arrow
+  - bg_ring
+  - btn_close
+  - ico_setting
+  - ico_cash_mini
+  - ico_tick_white
+  - pixel
+  - ico_diamond
+  - btn_white
+  - bg_circle_fade
+  - ico_lock_white
+  - bg_full
+  - bg_half_bottom
+  - bg_half_right
+  - bg_half_top
+  - bg_half_left
+  - bg_circle
+  - btn_green
+  m_RenderDataMap: {}
+  m_Tag: UI_Common
+  m_IsVariant: 0

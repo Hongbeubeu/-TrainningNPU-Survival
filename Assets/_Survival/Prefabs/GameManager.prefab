@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6422117385437753782
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6422117385437753784}
+  - component: {fileID: 6422117385437753785}
+  - component: {fileID: 6422117385437753787}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6422117385437753784
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6422117385437753782}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6422117385437753785
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6422117385437753782}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9973132b521f4485be2c64bb7027f9ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PlayerProfile: {fileID: 6422117385437753787}
+  PlayerData: {fileID: 11400000, guid: fe48e34a00549c24597eb3e795b1d915, type: 2}
+  ObjectPooler: {fileID: 11400000, guid: 6184085083ba59e4a8910754766befba, type: 2}
+  EnemyMapData: {fileID: 11400000, guid: 76fc99a885e61c942ad144a0306bf1e8, type: 2}
+  EnemyData: {fileID: 11400000, guid: 63e4b9e9fe992094eb5e2e152d34f3a2, type: 2}
+  WeaponData: {fileID: 11400000, guid: edb6d024a429d0b47a6407783216a077, type: 2}
+  SkillData: {fileID: 11400000, guid: ec4c0030ff38c7743b7a3b5d06fa604f, type: 2}
+  EnemyWeaponData: {fileID: 11400000, guid: db7f6f1104076164ea0c447f1055920c, type: 2}
+  ExtraEffectData: {fileID: 11400000, guid: 6d646d57d954de54ea47cc11e3252cb1, type: 2}
+  PermanentUpgradeDatas: {fileID: 11400000, guid: fc545cb8f20caa7438d01f1cbcc95ed7, type: 2}
+  BoxItemData: {fileID: 11400000, guid: 34a5ef7edf8156244b1794312f3767ba, type: 2}
+  CollectableDropData: {fileID: 11400000, guid: de498d3b9ea8d6940af9dfc2a051416f, type: 2}
+  GameConfig: {fileID: 11400000, guid: d38de7d1ae51ed44fb59906fb2cbe1a4, type: 2}
+  CollectableSprites:
+  - {fileID: 21300000, guid: 2a7ec6630b8b6f44984d970fb4afea3a, type: 3}
+  - {fileID: 21300000, guid: 92780bfc5b912af44b13301b0be3f3cd, type: 3}
+  - {fileID: 21300000, guid: 1113b032496e6794e9db42c13e11d0a0, type: 3}
+  - {fileID: 21300000, guid: 8110da8fcfa23eb42909657bb751435b, type: 3}
+  - {fileID: 21300000, guid: 5b90fa7a84f38964381fe8191faaa80e, type: 3}
+  - {fileID: 21300000, guid: 7cc7e6a18bef54e4fb6a37e49369e609, type: 3}
+  WeaponSprites:
+  - {fileID: 21300000, guid: e421ed175a0600441a51fdfbb8d0b3b3, type: 3}
+  - {fileID: 21300000, guid: 1df78f030d0e95943bd70e32435100f0, type: 3}
+  - {fileID: 21300000, guid: 0488a4c78181bf24bb2d3f410b53dd33, type: 3}
+  - {fileID: 21300000, guid: b5dbf45b60a9d4d4d8b43a73d154fb24, type: 3}
+  - {fileID: 21300000, guid: 0e269fddfe4a78f4590899da0ee050b8, type: 3}
+  - {fileID: 21300000, guid: 0e0f91fa39379f2498e4c5922ec99ebe, type: 3}
+  - {fileID: 21300000, guid: 92f293ffb5bcfec4faf42a3def0fdb1b, type: 3}
+  - {fileID: 21300000, guid: 636b00a9c6adb64488f681c769d18fd6, type: 3}
+  - {fileID: 21300000, guid: 8a50bbc71da1a5d46bfd99abe31e3816, type: 3}
+  - {fileID: 21300000, guid: c37febaf754e5344286fc6f728e44eca, type: 3}
+  - {fileID: 21300000, guid: 2bb530dfd6aba6c4082d4a9d6a5bdbdb, type: 3}
+  GoldSprite: {fileID: 21300000, guid: d2d2e94cfc14e4f419745176ed2a33e7, type: 3}
+  _skillSprites:
+  - {fileID: 21300000, guid: 390b15d745f71834488358b27e9b26b1, type: 3}
+  - {fileID: 21300000, guid: 5d2552a5c8722754fa0fa787a1286d2e, type: 3}
+  - {fileID: 21300000, guid: fcab31fec84384340ab2f3a119bb3b90, type: 3}
+  - {fileID: 21300000, guid: 67c1c7aa8ccb31b40a36c9ac607ffd5e, type: 3}
+  - {fileID: 21300000, guid: 9cf9cd3e1741e4d4abb1c06cd63d10e7, type: 3}
+  - {fileID: 21300000, guid: 7a2ac9eda348c804ca0c4b473905322f, type: 3}
+--- !u!114 &6422117385437753787
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6422117385437753782}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df73da5eb5e3463b9d9b0c1b951dbfad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data: {fileID: 11400000, guid: fe48e34a00549c24597eb3e795b1d915, type: 2}

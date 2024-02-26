@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdd34438117042ccba14da4a8ff7f016, type: 3}
+  m_Name: ObjectPool
+  m_EditorClassIdentifier: 
+  Projectiles:
+  - {fileID: -5040460012010261126, guid: aff01b6e31a0aef438935d77563a83ec, type: 3}
+  - {fileID: 5143090865239077193, guid: b8ece43cb7b2950478ed5355591cf356, type: 3}
+  - {fileID: 2978423146464256389, guid: 00119a2eb3449d64bb986257d21543eb, type: 3}
+  - {fileID: 4709248035390879606, guid: f5fbdbe2bb5d3c5409b4a910fd3a34b3, type: 3}
+  - {fileID: 8836671471028229760, guid: 0fd502c50e4bc4541bd56fa62e7f5ab7, type: 3}
+  - {fileID: 627191190524463349, guid: 3571509d0c98db942ab3786a1617d155, type: 3}
+  - {fileID: 4153254847187007901, guid: 38cce39f19b9eda4aa089b4f6aace99f, type: 3}
+  - {fileID: 4475593494127954381, guid: e0fafd7fce736db4a92819fd05f494dc, type: 3}
+  - {fileID: 856724244567618641, guid: 5bb1b86030201484b87e173be952ba2d, type: 3}
+  - {fileID: 538956467326414947, guid: 7f9028fc7d91e7c49960897f6b226712, type: 3}
+  - {fileID: -5040460012010261126, guid: ff7c2526dfe3aad438a7cd97e2f53033, type: 3}
+  - {fileID: 7054939643821980593, guid: 3dbdd1a4bfd08634ba6ce9fe3477bd8b, type: 3}
+  ExtraEffects:
+  - {fileID: 20176611074761319, guid: 60b6950c777150748bff271d656eabc8, type: 3}
+  Enemies:
+  - {fileID: 7693875064073557009, guid: 603106ab1fd6c85448b6e13b72ed8799, type: 3}
+  - {fileID: 7693875064073557009, guid: e47c206457e00f243849595ae4e376b3, type: 3}
+  - {fileID: 5307732015266715121, guid: e5e9d1f5d1ed87444bfaf9c6fbc243f5, type: 3}
+  CollectableItem: {fileID: 2029446192618063036, guid: 89620a09bbc2f924b86cc82ac7f1e28b, type: 3}
+  BoxItem: {fileID: 1808130627, guid: 0b54323d1a2e9044fad63a2634807c91, type: 3}
+  Drone: {fileID: 4966109709343236563, guid: 797ae63392c468746b7407a8d428317e, type: 3}
+  _effects:
+  - {fileID: 8463313344312646804, guid: 497e4df7e70a5e74f9a01843508e6301, type: 3}
+  - {fileID: 8463313344312646804, guid: 285f8f7786a205e4b9a4cbe165964067, type: 3}
+  - {fileID: 7327794087261009627, guid: 4dbefa7b6edb757478788267a8969fbb, type: 3}
+  - {fileID: 4970363135525307280, guid: 73aa1b117fac59e4991a0ef74430aea3, type: 3}
+  - {fileID: 9015391569928287174, guid: 709eabbf0bc642f4b85a3c2cfd525832, type: 3}

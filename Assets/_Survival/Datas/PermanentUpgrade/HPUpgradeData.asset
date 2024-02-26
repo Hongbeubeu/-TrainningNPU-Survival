@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa1f1ea4f91c40019e5d547447d38e28, type: 3}
+  m_Name: HPUpgradeData
+  m_EditorClassIdentifier: 
+  Datas:
+  - Value: 2
+    Price: 10
+  - Value: 4
+    Price: 20
+  - Value: 8
+    Price: 50
+  - Value: 16
+    Price: 100
+  - Value: 20
+    Price: 150
+  - Value: 25
+    Price: 300

@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 225e30fc735f44c58ac341bab2d67958, type: 3}
+  m_Name: Map1
+  m_EditorClassIdentifier: 
+  DelayBeforeSpawnWave: 3
+  WaveData:
+  - Tier: 1
+    Level: 1
+    Count: 5
+    SpawnDeltaTime: 0
+  - Tier: 1
+    Level: 1
+    Count: 10
+    SpawnDeltaTime: 0.1
+  - Tier: 1
+    Level: 1
+    Count: 20
+    SpawnDeltaTime: 0.1
+  - Tier: 1
+    Level: 0
+    Count: 30
+    SpawnDeltaTime: 1
+  - Tier: 0
+    Level: 3
+    Count: 100
+    SpawnDeltaTime: 0.01
+  - Tier: 1
+    Level: 1
+    Count: 16
+    SpawnDeltaTime: 0.1
+  - Tier: 0
+    Level: 4
+    Count: 50
+    SpawnDeltaTime: 0.5
+  - Tier: 1
+    Level: 2
+    Count: 50
+    SpawnDeltaTime: 2
+  - Tier: 0
+    Level: 5
+    Count: 200
+    SpawnDeltaTime: 0.2
+  - Tier: 0
+    Level: 6
+    Count: 200
+    SpawnDeltaTime: 0.1
+  - Tier: 0
+    Level: 7
+    Count: 90
+    SpawnDeltaTime: 0.2
+  - Tier: 1
+    Level: 2
+    Count: 30
+    SpawnDeltaTime: 1
+  - Tier: 0
+    Level: 8
+    Count: 40
+    SpawnDeltaTime: 1
+  - Tier: 1
+    Level: 3
+    Count: 25
+    SpawnDeltaTime: 1
+  - Tier: 0
+    Level: 9
+    Count: 40
+    SpawnDeltaTime: 0.5
+  - Tier: 1
+    Level: 4
+    Count: 30
+    SpawnDeltaTime: 1.5
+  - Tier: 0
+    Level: 10
+    Count: 100
+    SpawnDeltaTime: 0.5
+  - Tier: 1
+    Level: 5
+    Count: 100
+    SpawnDeltaTime: 0.4
+  - Tier: 1
+    Level: 6
+    Count: 60
+    SpawnDeltaTime: 3
+  - Tier: 1
+    Level: 7
+    Count: 70
+    SpawnDeltaTime: 1
+  - Tier: 1
+    Level: 8
+    Count: 60
+    SpawnDeltaTime: 2
+  - Tier: 1
+    Level: 9
+    Count: 30
+    SpawnDeltaTime: 5
+  - Tier: 1
+    Level: 10
+    Count: 15
+    SpawnDeltaTime: 1
+  - Tier: 2
+    Level: 0
+    Count: 1
+    SpawnDeltaTime: 10

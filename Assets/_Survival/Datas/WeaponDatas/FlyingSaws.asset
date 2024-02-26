@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c96640d212748e38816a2f83d9fcc7a, type: 3}
+  m_Name: FlyingSaws
+  m_EditorClassIdentifier: 
+  BaseWeaponDatas:
+  - Type: 6
+    Level: 0
+    CoolDownTime: 0
+    Damage: 1
+    NumberOfProjectilePerHit: 1
+    MaxTarget: 5
+    Angle: 0
+    ProjectileSpeed: 2
+    Range: 5
+    ProjectileRange: 0
+    TriggerRadius: 0.7
+    FireChance: 0
+    NumberOfWeapon: 2
+  - Type: 6
+    Level: 1
+    CoolDownTime: 0
+    Damage: 1
+    NumberOfProjectilePerHit: 1
+    MaxTarget: 5
+    Angle: 0
+    ProjectileSpeed: 2
+    Range: 5
+    ProjectileRange: 0
+    TriggerRadius: 0.8
+    FireChance: 0
+    NumberOfWeapon: 3
+  - Type: 6
+    Level: 2
+    CoolDownTime: 0
+    Damage: 1
+    NumberOfProjectilePerHit: 1
+    MaxTarget: 5
+    Angle: 0
+    ProjectileSpeed: 3
+    Range: 5
+    ProjectileRange: 0
+    TriggerRadius: 1
+    FireChance: 0
+    NumberOfWeapon: 4
+  - Type: 6
+    Level: 3
+    CoolDownTime: 0
+    Damage: 2
+    NumberOfProjectilePerHit: 1
+    MaxTarget: 5
+    Angle: 0
+    ProjectileSpeed: 3
+    Range: 5
+    ProjectileRange: 0
+    TriggerRadius: 1
+    FireChance: 0
+    NumberOfWeapon: 4
+  - Type: 6
+    Level: 4
+    CoolDownTime: 0
+    Damage: 2
+    NumberOfProjectilePerHit: 1
+    MaxTarget: 5
+    Angle: 0
+    ProjectileSpeed: 3
+    Range: 5
+    ProjectileRange: 0
+    TriggerRadius: 1.2
+    FireChance: 0
+    NumberOfWeapon: 5

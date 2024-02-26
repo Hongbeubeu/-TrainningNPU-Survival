@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c96640d212748e38816a2f83d9fcc7a, type: 3}
+  m_Name: Lightning
+  m_EditorClassIdentifier: 
+  BaseWeaponDatas:
+  - Type: 9
+    Level: 0
+    CoolDownTime: 5
+    Damage: 3
+    NumberOfProjectilePerHit: 2
+    MaxTarget: 5
+    Angle: 0
+    ProjectileSpeed: 5
+    Range: 15
+    ProjectileRange: 5
+    TriggerRadius: 4
+    FireChance: 0.1
+    NumberOfWeapon: 1
+  - Type: 9
+    Level: 1
+    CoolDownTime: 4
+    Damage: 3
+    NumberOfProjectilePerHit: 3
+    MaxTarget: 5
+    Angle: 0
+    ProjectileSpeed: 5
+    Range: 15
+    ProjectileRange: 5
+    TriggerRadius: 4
+    FireChance: 0.1
+    NumberOfWeapon: 1
+  - Type: 9
+    Level: 2
+    CoolDownTime: 3
+    Damage: 3
+    NumberOfProjectilePerHit: 4
+    MaxTarget: 5
+    Angle: 0
+    ProjectileSpeed: 5
+    Range: 15
+    ProjectileRange: 5
+    TriggerRadius: 4
+    FireChance: 0.1
+    NumberOfWeapon: 1
+  - Type: 9
+    Level: 3
+    CoolDownTime: 2
+    Damage: 3
+    NumberOfProjectilePerHit: 5
+    MaxTarget: 5
+    Angle: 0
+    ProjectileSpeed: 5
+    Range: 15
+    ProjectileRange: 5
+    TriggerRadius: 4
+    FireChance: 0.1
+    NumberOfWeapon: 1
+  - Type: 9
+    Level: 4
+    CoolDownTime: 1
+    Damage: 3
+    NumberOfProjectilePerHit: 5
+    MaxTarget: 5
+    Angle: 0
+    ProjectileSpeed: 5
+    Range: 15
+    ProjectileRange: 5
+    TriggerRadius: 5
+    FireChance: 0.1
+    NumberOfWeapon: 1

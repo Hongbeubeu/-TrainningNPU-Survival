@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c8ce8a942511265428f58eea07e57809, type: 3}
+    - {fileID: 102900000, guid: 96219312f96f2bd40a673a6591b44d33, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a0e2c631b11f4134fa453e501f169d73, type: 3}
+  - {fileID: 21300000, guid: 2df99fe1b1ef5d3449d907568abe4e2a, type: 3}
+  - {fileID: 21300000, guid: 1df78f030d0e95943bd70e32435100f0, type: 3}
+  - {fileID: 21300000, guid: ab4cd6a405d6253409b3868678405dd0, type: 3}
+  - {fileID: 21300000, guid: c7fabfb410d50ff4581e2d3f153878d0, type: 3}
+  - {fileID: 21300000, guid: 048203f4f775f7e43aaa635f4da99a80, type: 3}
+  - {fileID: 21300000, guid: 5d2552a5c8722754fa0fa787a1286d2e, type: 3}
+  - {fileID: 21300000, guid: e421ed175a0600441a51fdfbb8d0b3b3, type: 3}
+  - {fileID: 21300000, guid: 88d4009770225bd49b40cc5d889c3d8c, type: 3}
+  - {fileID: 21300000, guid: 0488a4c78181bf24bb2d3f410b53dd33, type: 3}
+  - {fileID: 21300000, guid: 8a50bbc71da1a5d46bfd99abe31e3816, type: 3}
+  - {fileID: 21300000, guid: 390b15d745f71834488358b27e9b26b1, type: 3}
+  - {fileID: 21300000, guid: a0332df88ca7d9842b2caede19cf7404, type: 3}
+  - {fileID: 21300000, guid: 636b00a9c6adb64488f681c769d18fd6, type: 3}
+  - {fileID: 21300000, guid: e74a6be932f0f8b49b9eca21a72b8ccd, type: 3}
+  - {fileID: 21300000, guid: 67c1c7aa8ccb31b40a36c9ac607ffd5e, type: 3}
+  - {fileID: 21300000, guid: 0e0f91fa39379f2498e4c5922ec99ebe, type: 3}
+  - {fileID: 21300000, guid: b5dbf45b60a9d4d4d8b43a73d154fb24, type: 3}
+  - {fileID: 21300000, guid: d2d2e94cfc14e4f419745176ed2a33e7, type: 3}
+  - {fileID: 21300000, guid: 0e269fddfe4a78f4590899da0ee050b8, type: 3}
+  - {fileID: 21300000, guid: 7a2ac9eda348c804ca0c4b473905322f, type: 3}
+  - {fileID: 937454141, guid: 252948fd4b9616549a44af6e03429341, type: 3}
+  - {fileID: -1646622220, guid: 252948fd4b9616549a44af6e03429341, type: 3}
+  - {fileID: -1620191111, guid: 252948fd4b9616549a44af6e03429341, type: 3}
+  - {fileID: -214676879, guid: 252948fd4b9616549a44af6e03429341, type: 3}
+  - {fileID: -1427870155, guid: 252948fd4b9616549a44af6e03429341, type: 3}
+  - {fileID: 21300000, guid: 9cf9cd3e1741e4d4abb1c06cd63d10e7, type: 3}
+  - {fileID: 21300000, guid: fcab31fec84384340ab2f3a119bb3b90, type: 3}
+  - {fileID: 21300000, guid: c37febaf754e5344286fc6f728e44eca, type: 3}
+  - {fileID: 21300000, guid: 2bb530dfd6aba6c4082d4a9d6a5bdbdb, type: 3}
+  - {fileID: 21300000, guid: 92f293ffb5bcfec4faf42a3def0fdb1b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - city_BG
+  - ice_BG
+  - Shortgun
+  - Handle_Outline 1
+  - desert_BG
+  - icon_gold
+  - sprinter
+  - uzi
+  - Handle_Plain 1
+  - laser
+  - heatwave
+  - magnet
+  - lock
+  - sword
+  - icon
+  - critical
+  - boomerang 1
+  - Bomb
+  - goldBonus
+  - land Mine
+  - looter
+  - bg_full
+  - bg_half_bottom
+  - bg_half_right
+  - bg_half_top
+  - bg_half_left
+  - dodger
+  - specialist
+  - lightning
+  - drone
+  - Saw 1
+  m_RenderDataMap: {}
+  m_Tag: UIAtlas
+  m_IsVariant: 0
